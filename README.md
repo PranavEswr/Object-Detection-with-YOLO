@@ -1,5 +1,5 @@
 # Object-Detection-with-YOLO
-In this project I have performed the object detection in images using YOLOv3 which is already pretrained on COCO-dataset under OpenCV and Python. Also applied non-maximum suppression to remove overlapping bounding boxes.
+In this project I have performed the object detection in images using YOLOv3 which is already pretrained on COCO-dataset under OpenCV and Python. Also applied non-maximum suppression to remove overlapping bounding boxes. The key idea behind YOLO is to divide the input image into a grid of cells, with each cell responsible for predicting the bounding boxes and class probabilities for the objects present in that cell.
 
 # YOLO v3
 YOLO v3 is the third version of the YOLO object detection algorithm. It was introduced in 2018 as an improvement over YOLO v2, aiming to increase the accuracy and speed of the algorithm.
